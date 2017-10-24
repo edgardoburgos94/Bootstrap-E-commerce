@@ -1,0 +1,215 @@
+@media screen and (min-width: 992px) {
+  header {
+    background: #222;
+    color: #fff;
+    width: 100%;
+    color: white;
+  }
+
+  nav h1 {
+    color: #fff;
+  }
+  .collapse li a {
+    color: #fff;
+  }
+
+  #links a {
+    color: #bbb;
+    margin: 8px;
+  }
+  #links a:hover {
+    color: #fff;
+  }
+
+  .buscador {
+    margin-top: 20px;
+    margin-right: 5px;
+  }
+
+  .lateral {
+    margin-top: 20px;
+    margin-right: 5px;
+    list-style: none;
+  }
+
+  .lateral li {
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+  }
+
+  .lateral li:hover {
+    background: #e6f1ff;
+
+  }
+
+  .main {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .stylish-input-group .input-group-addon{
+      background: white !important;
+  }
+  .stylish-input-group .form-control{
+  	border-right:0;
+  	box-shadow:0 0 0;
+  	border-color:#ccc;
+  }
+  .stylish-input-group button{
+      border:0;
+      background:transparent;
+  }
+
+  .camiseta {
+    width: 100%;
+    background: #fff;
+    margin-top: 20px;
+    padding: 10px;
+    border: 2px solid #ddd;
+    border-radius: 7px;
+  }
+
+  .camiseta img {
+    width: 100%;
+
+  }
+
+  .camiseta:hover {
+    border: 2px solid #aaa;
+    background: #fafafa;
+
+  }
+
+  .azul {
+    color: #3ea1fe;
+  }
+
+  .coments
+  {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-top: 20px;
+    margin-right: 5px;
+  }
+  .coments p {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-top: 0px;
+    background: #f1f1f1;
+  }
+
+
+}
+
+@media screen and (max-width: 992px) {
+  header {
+    background: #222;
+    color: #fff;
+    width: 100%;
+
+  }
+
+  nav h1 {
+    color: #fff;
+  }
+  .collapse li a {
+    color: #fff;
+  }
+
+  #links a {
+    color: #bbb;
+    margin: 8px;
+  }
+  #links a:hover {
+    color: #fff;
+  }
+
+  .lateral {
+    display: none;
+  }
+
+
+    .buscador {
+      margin-top: 20px;
+      margin-right: 5px;
+      margin-bottom: 20px;
+    }
+
+
+  .stylish-input-group .input-group-addon{
+      background: white !important;
+  }
+  .stylish-input-group .form-control{
+  	border-right:0;
+  	box-shadow:0 0 0;
+  	border-color:#ccc;
+  }
+  .stylish-input-group button{
+      border:0;
+      background:transparent;
+  }
+
+  .camiseta {
+    width: 100%;
+    background: #fff;
+    margin-top: 20px;
+    padding: 10px;
+    border: 2px solid #ddd;
+    border-radius: 7px;
+  }
+
+  .camiseta img {
+    width: 100%;
+
+  }
+
+  .camiseta:hover {
+    border: 2px solid #aaa;
+    background: #fafafa;
+
+  }
+
+  .azul {
+    color: #3ea1fe;
+  }
+
+  .coments
+  {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-top: 20px;
+    margin-right: 5px;
+  }
+
+  .coments p {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-top: 0px;
+    background: #f1f1f1;
+  }
+}
+
+
+
+@media screen and (max-width: 576px) {
+
+  nav h1 {
+    color: #fff;
+  }
+  .collapse li a {
+    color: #fff;
+  }
+
+  #links a {
+    color: #bbb;
+    margin: 8px;
+  }
+  #links a:hover {
+    color: #fff;
+  }
+  li {
+    display: inline-block;
+    text-decoration: none;
+  }
+
+}
